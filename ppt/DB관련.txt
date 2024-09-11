@@ -1,0 +1,31 @@
+1.mysql 연동
+
+mysql cmd로 접속
+
+show databases;
+
+ use mysql;
+
+create table test2 (
+id int,
+name char(8)
+);
+
+show tables;
+
+select * from test2;
+
+insert into test2 values(1, 'kim');
+
+select * from test2;
+
+2. 오라클 다운로드
+
+http://dw.hanbit.co.kr/Oracle/11gXE/
+
+
+
+
+
+
+
